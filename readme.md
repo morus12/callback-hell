@@ -6,8 +6,9 @@ So this is the plan, i hope i'll find time and contributors for compleating this
 ### Requirements
 - nodejs 7.7+ (async/await)
 
-### Runing
+### Running
 `npm install`
+
 `node benchmark.js`
 
 ### Results
