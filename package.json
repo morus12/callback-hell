@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^2.1.5",
+    "benchmark": "^2.1.3"
+  }
+}
